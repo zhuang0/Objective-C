@@ -6,6 +6,8 @@ $git remote add name_of_url git@github.com:name_of_user/name_of_repository.git
 
 $git add name_of_file
 
+$git commit -m "note_of_the_file_you_are_going_to_commit"
+
 #pull the files in your repository on the internet down to the localhost 
 $git pull name_of_url name_of_branch_in_your_repository(like master)
 

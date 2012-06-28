@@ -1,0 +1,240 @@
+Tpro1
+v7
+r3
+t362566844.601956
+cCheck dependencies
+cProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch.gch pro1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch.gch pro1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch.gch pro1_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1 normal x86_64
+cLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1 normal i386
+cCompileC build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal ppc objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1 normal ppc
+cCreateUniversalBinary /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1 normal "x86_64 i386 ppc"
+cGenerateDSYMFile /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1.dSYM /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E2890790000000000B38DD0
+t1311281273
+s11767248
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1
+t1340874044
+s46104
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1.dSYM
+t2
+s0
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1
+t1340874043
+s13596
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.LinkFileList
+c000000004FEC1D320000000000000069
+t1340874034
+s105
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.o
+t1340874043
+s7812
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1
+t1340874044
+s13336
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.LinkFileList
+c000000004FEC1D320000000000000068
+t1340874034
+s104
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.o
+t1340874044
+s7928
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1
+t1340874043
+s10272
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.LinkFileList
+c000000004FEC1D32000000000000006B
+t1340874034
+s107
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.o
+t1340874043
+s11084
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m
+c000000004FEC1C4D0000000000000378
+t1340873805
+s888
+i<Foundation/Foundation.h>
+
+N/Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch
+c000000004FEC17BE0000000000000096
+t1340872638
+s150
+i<Foundation/Foundation.h>
+
+N/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch.gch
+t1340874043
+s39881296
+
+N/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch.gch
+t1340874039
+s40086288
+
+N/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch.gch
+t1340874039
+s42601264
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362566834#362566834#0(0"0(0#1#0"8624999968#0"0#
+
+CCompileC build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s362566843.561571
+e362566843.791363
+r1
+xCompileC
+xbuild/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.o
+x/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m362566843#362566843#0(0"0(0#0#48"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m8623095360#1453"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/i386 -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.o0#
+
+CCompileC build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal ppc objective-c com.apple.compilers.gcc.4_2
+s362566843.863479
+e362566844.084014
+r1
+xCompileC
+xbuild/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.o
+x/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m362566843#362566844#0(0"0(0#0#48"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m8615955392#1460"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/ppc -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.o0#
+
+CCompileC build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.o /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362566843.560274
+e362566843.764044
+r1
+xCompileC
+xbuild/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.o
+x/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m362566843#362566843#0(0"0(0#0#48"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m8623717888#1459"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1.m -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.o0#
+
+CCreateUniversalBinary /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1 normal "x86_64 i386 ppc"
+s362566844.308785
+e362566844.438873
+r1
+xCreateUniversalBinary
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@65"CreateUniversalBinary build/Release/pro1 normal "x86_64 i386 ppc"362566844#362566844#0(0"0(0#0#57"/Users/zhuanghua/Documents/zhuanghui/pro1/x86_64 i386 ppc8622132512#454"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    /usr/bin/lipo -create /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1 /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1 /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1 -output /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro10#
+
+CGenerateDSYMFile /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1.dSYM /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1
+s362566844.438971
+e362566844.601904
+r0
+xGenerateDSYMFile
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1.dSYM
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1
+lSLF07#2@59"GenerateDSYMFile build/Release/pro1.dSYM build/Release/pro1362566844#362566844#0(0"0(0#0#60"/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro18618300256#211"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    /Developer/usr/bin/dsymutil /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1 -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/pro1.dSYM2#
+
+CLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1 normal i386
+s362566843.791455
+e362566843.996480
+r1
+xLd
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1
+xnormal
+xi386
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found
+lSLF07#2@107"Link /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1362566843#362566843#0(208"ld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not foundld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found2(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found362566843#0#104#0(6@0"362566843#0#0#0#0#0"0(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found362566843#104#104#0(6@0"362566843#0#0#0#0#0"0(0#0#0"8618733088#569"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -filelist /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/i386/pro10#
+
+CLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1 normal ppc
+s362566844.084107
+e362566844.308673
+r1
+xLd
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1
+xnormal
+xppc
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found
+lSLF07#2@106"Link /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1362566844#362566844#0(208"ld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not foundld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found2(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found362566844#0#104#0(6@0"362566844#0#0#0#0#0"0(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found362566844#104#104#0(6@0"362566844#0#0#0#0#0"0(0#0#0"8623086112#566"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -filelist /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/ppc/pro10#
+
+CLd /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1 normal x86_64
+s362566843.764140
+e362566843.863367
+r1
+xLd
+x/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1
+xnormal
+xx86_64
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found
+old: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found
+lSLF07#2@109"Link /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1362566843#362566843#0(208"ld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not foundld: warning: directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found2(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -L not found362566843#0#104#0(6@0"362566843#0#0#0#0#0"0(22@90"Directory '/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release' following -F not found362566843#104#104#0(6@0"362566843#0#0#0#0#0"0(0#0#0"8621569248#575"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -filelist /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/Objects-normal/x86_64/pro10#
+
+CProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch.gch pro1_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s362566839.548927
+e362566843.560034
+r1
+xProcessPCH
+x/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch.gch
+xpro1_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile pro1_Prefix.pch362566839#362566843#0(0"0(0#0#57"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch8622823616#1367"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/ppc -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch -o /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-azpxedsvfgqwjnbikmpbqwmwwhdz/pro1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch.gch pro1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362566834.862757
+e362566839.548713
+r1
+xProcessPCH
+x/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch.gch
+xpro1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile pro1_Prefix.pch362566834#362566839#0(0"0(0#0#57"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch8623805792#1363"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch -o /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-fpgngsjknczqgmdoubospfsfjydt/pro1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch.gch pro1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s362566834.863767
+e362566839.704787
+r1
+xProcessPCH
+x/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch.gch
+xpro1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile pro1_Prefix.pch362566834#362566839#0(0"0(0#0#57"/Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch8623743584#1359"    cd /Users/zhuanghua/Documents/zhuanghui/pro1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/pro1-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/Release/include -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources/i386 -I/Users/zhuanghua/Documents/zhuanghui/pro1/build/pro1.build/Release/pro1.build/DerivedSources -c /Users/zhuanghua/Documents/zhuanghui/pro1/pro1_Prefix.pch -o /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/pro1_Prefix-hajcoyqwnijdrteqnnpwbftmvszn/pro1_Prefix.pch.gch0#
+

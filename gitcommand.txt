@@ -1,18 +1,18 @@
-cd where_your_file_sare
+cd whereYourFilesAre
 
-$git init the_dir_where_your_file_sare
+$git init theDirWhereYourFilesAre
 
-$git remote add name_of_url git@github.com:name_of_user/name_of_repository.git
+$git remote add nameOfUrl git@github.com:username/repositoryName.git
 
-$git add name_of_file
+$git add filename
 
-$git commit -m "note_of_the_file_you_are_going_to_commit"
+$git commit -m "noteOfTheFile"
 
 #pull the files in your repository on the internet down to the localhost 
-$git pull name_of_url name_of_branch_in_your_repository(like master)
+$git pull nameOfUrl nameOfBranch(like master)
 
 #push the files on the localhost up to your repository on the internet
-$git push name_of_url name_of_branch_in_your_repository(like master)
+$git push nameOfUrl nameOfBranch(like master)
 
 
 

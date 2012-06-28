@@ -1,4 +1,4 @@
-cd whereYourFilesAre
+$cd whereYourFilesAre
 
 $git init theDirWhereYourFilesAre
 

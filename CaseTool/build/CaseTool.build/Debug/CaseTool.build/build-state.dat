@@ -1,0 +1,229 @@
+TCaseTool
+v7
+r0
+t362723106.419587
+cCheck dependencies
+cProcessInfoPlistFile /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Info.plist CaseTool-Info.plist
+cCopyStringsFile /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch.gch CaseTool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/main.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseToolAppDelegate.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/AppController.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool normal x86_64
+cTouch /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.h
+c000000004FEE7D970000000000000166
+t1341029783
+s358
+i<Cocoa/Cocoa.h>
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m
+c000000004FEE7E3700000000000003B5
+t1341029943
+s949
+i"AppController.h"
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.h
+c000000004FEE6EED000000000000013C
+t1341026029
+s316
+i<Cocoa/Cocoa.h>
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m
+c000000004FEE6EED0000000000000172
+t1341026029
+s370
+i"CaseToolAppDelegate.h"
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseTool_Prefix.pch
+c000000004FEE6EED0000000000000093
+t1341026029
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/InfoPlist.strings
+c000000004FEE6EED000000000000002D
+t1341026029
+s45
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib
+c000000004FEE7F9600000000000308DA
+t1341030294
+s198874
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/AppController.o
+t1341029948
+s17232
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseTool.LinkFileList
+c000000004FEE7D2E0000000000000177
+t1341029678
+s375
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseToolAppDelegate.o
+t1341029683
+s21144
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/main.o
+t1341029683
+s5000
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app
+t1341030306
+s102
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Info.plist
+t1341029678
+s889
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool
+t1341029949
+s16136
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/PkgInfo
+t1341029678
+s8
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1341029678
+s92
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/MainMenu.nib
+t1341030306
+s37637
+
+N/Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m
+c000000004FEE6EED00000000000000FC
+t1341026029
+s252
+i<Cocoa/Cocoa.h>
+
+N/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch.gch
+t1341029683
+s54306576
+
+NCaseTool-Info.plist
+c000000004FEE6EED00000000000003EA
+t1341026029
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies362723105#362723105#0(0"0(0#1#0"8617641824#0"0#
+
+CCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/AppController.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362722748.049906
+e362722748.405553
+r1
+xCompileC
+xbuild/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/AppController.o
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m362722748#362722748#0(0"0(0#0#61"/Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m8618537952#1565"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/include -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/CaseTool/AppController.m -o /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseToolAppDelegate.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362722483.468203
+e362722483.687307
+r1
+xCompileC
+xbuild/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseToolAppDelegate.o
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m362722483#362722483#0(0"0(0#0#67"/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m8621335552#1577"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/include -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseToolAppDelegate.m -o /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseToolAppDelegate.o0#
+
+CCompileC build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/main.o /Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362722483.466912
+e362722483.675632
+r1
+xCompileC
+xbuild/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/main.o
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m362722483#362722483#0(0"0(0#0#52"/Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m8608472224#1547"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/include -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources -include /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch -c /Users/zhuanghua/Documents/zhuanghui/CaseTool/main.m -o /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib
+s362723105.907961
+e362723106.395790
+r1
+xCompileXIB
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib:533: warning: The 'textfield' outlet of 'App Controller' is connected to 'Text Field' but 'textfield' is no longer defined on AppController.
+o/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib:533: warning: The 'resultfield' outlet of 'App Controller' is connected to 'Static Text (Label)' but 'resultfield' is no longer defined on AppController.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib362723105#362723106#0(482"/* com.apple.ibtool.document.warnings *//Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib:533: warning: The 'textfield' outlet of 'App Controller' is connected to 'Text Field' but 'textfield' is no longer defined on AppController./Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib:533: warning: The 'resultfield' outlet of 'App Controller' is connected to 'Static Text (Label)' but 'resultfield' is no longer defined on AppController.2(22@126"The 'textfield' outlet of 'App Controller' is connected to 'Text Field' but 'textfield' is no longer defined on AppController.362723106#18446744073709551615#0#0(6@72"/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib362723094#533#0#533#0#0"0(22@139"The 'resultfield' outlet of 'App Controller' is connected to 'Static Text (Label)' but 'resultfield' is no longer defined on AppController.362723106#18446744073709551615#0#0(6@72"/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib362723094#533#0#533#0#0"0(0#0#72"/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib8608491328#386"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/MainMenu.nib /Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s362722478.277195
+e362722478.638762
+r1
+xCopyStringsFile
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings362722478#362722478#0(0"0(0#0#77"/Users/zhuanghua/Documents/zhuanghui/CaseTool/English.lproj/InfoPlist.strings8621547232#380"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Resources/English.lproj0#
+
+CLd /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool normal x86_64
+s362722748.405767
+e362722749.419389
+r1
+xLd
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool
+xnormal
+xx86_64
+lSLF07#2@99"Link /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool362722748#362722749#0(0"0(0#0#0"8601513536#582"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -F/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -filelist /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/Objects-normal/x86_64/CaseTool.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/MacOS/CaseTool0#
+
+CProcessInfoPlistFile /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Info.plist CaseTool-Info.plist
+s362722478.213826
+e362722478.277092
+r1
+xProcessInfoPlistFile
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Info.plist
+xCaseTool-Info.plist
+lSLF07#2@27"Process CaseTool-Info.plist362722478#362722478#0(0"0(0#0#65"/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseTool-Info.plist27584981513797680#334"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    builtin-infoPlistUtility CaseTool-Info.plist -genpkginfo /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch.gch CaseTool_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s362722478.797503
+e362722483.466666
+r1
+xProcessPCH
+x/var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch.gch
+xCaseTool_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CaseTool_Prefix.pch362722478#362722483#0(0"0(0#0#65"/Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseTool_Prefix.pch8617159008#1445"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-generated-files.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-own-target-headers.hmap -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-all-target-headers.hmap -iquote /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/CaseTool-project-headers.hmap -F/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/include -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources/x86_64 -I/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/CaseTool.build/Debug/CaseTool.build/DerivedSources -c /Users/zhuanghua/Documents/zhuanghui/CaseTool/CaseTool_Prefix.pch -o /var/folders/t7/t7wLnLR+GQycKp7iZN4Hbk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CaseTool_Prefix-fsoscmrcoovfbjdwaqluuboqiwnc/CaseTool_Prefix.pch.gch0#
+
+CTouch /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app
+s362723106.396377
+e362723106.419533
+r1
+xTouch
+x/Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app
+lSLF07#2@76"Touch /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app362723106#362723106#0(0"0(0#0#0"8619251264#146"    cd /Users/zhuanghua/Documents/zhuanghui/CaseTool    /usr/bin/touch -c /Users/zhuanghua/Documents/zhuanghui/CaseTool/build/Debug/CaseTool.app0#
+

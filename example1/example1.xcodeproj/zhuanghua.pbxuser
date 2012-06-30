@@ -34,8 +34,19 @@
 			PBXPerProjectTemplateStateSaveDate = 362736533;
 			PBXWorkspaceStateSaveDate = 362736533;
 		};
+		perUserProjectItems = {
+			14B34F47159EEDA4009E3988 /* PBXTextBookmark */ = 14B34F47159EEDA4009E3988 /* PBXTextBookmark */;
+			14B34F48159EEDA4009E3988 /* PBXTextBookmark */ = 14B34F48159EEDA4009E3988 /* PBXTextBookmark */;
+		};
 		sourceControlManager = 14B34F39159EEB9A009E3988 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* example1.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {524, 245}}";
+			sepNavSelRange = "{281, 0}";
+			sepNavVisRange = "{0, 284}";
 		};
 	};
 	14B34F2E159EEB95009E3988 /* example1 */ = {
@@ -54,6 +65,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -61,6 +73,8 @@
 		executableUserSymbolLevel = 0;
 		libgmallocEnabled = 0;
 		name = example1;
+		savedGlobals = {
+		};
 		showTypeColumn = 0;
 		sourceDirectories = (
 		);
@@ -78,6 +92,26 @@
 	14B34F3A159EEB9A009E3988 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	14B34F47159EEDA4009E3988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* example1.m */;
+		name = "example1.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	14B34F48159EEDA4009E3988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* example1.m */;
+		name = "example1.m: 12";
+		rLen = 0;
+		rLoc = 281;
+		rType = 0;
+		vrLen = 284;
+		vrLoc = 0;
 	};
 	8DD76F960486AA7600D96B5E /* example1 */ = {
 		activeExec = 0;

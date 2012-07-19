@@ -1,1 +1,0 @@
-gcc -framework Foundation filename.form

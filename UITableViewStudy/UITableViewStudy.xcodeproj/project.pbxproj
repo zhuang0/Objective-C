@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		14B1AAAB15BFF89E00BA042A /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14B1AAAA15BFF89E00BA042A /* AddViewController.m */; };
 		14C7682415BD4142009DA1D6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C7682315BD4142009DA1D6 /* UIKit.framework */; };
 		14C7682615BD4142009DA1D6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C7682515BD4142009DA1D6 /* Foundation.framework */; };
 		14C7682815BD4142009DA1D6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C7682715BD4142009DA1D6 /* CoreGraphics.framework */; };
@@ -17,11 +16,10 @@
 		14C7683715BD4142009DA1D6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14C7683515BD4142009DA1D6 /* MainStoryboard.storyboard */; };
 		14C7684215BD428E009DA1D6 /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14C7684115BD428E009DA1D6 /* ListViewController.m */; };
 		14C7684815BD4B9C009DA1D6 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14C7684715BD4B9C009DA1D6 /* DetailViewController.m */; };
+		14CDAAB415C2A38B0015EB81 /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CDAAB215C2A38B0015EB81 /* AddViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		14B1AAA915BFF89E00BA042A /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddViewController.h; path = ../AddViewController.h; sourceTree = "<group>"; };
-		14B1AAAA15BFF89E00BA042A /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddViewController.m; path = ../AddViewController.m; sourceTree = "<group>"; };
 		14C7681F15BD4142009DA1D6 /* UITableViewStudy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITableViewStudy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14C7682315BD4142009DA1D6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		14C7682515BD4142009DA1D6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +35,8 @@
 		14C7684115BD428E009DA1D6 /* ListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListViewController.m; sourceTree = "<group>"; };
 		14C7684615BD4B9C009DA1D6 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		14C7684715BD4B9C009DA1D6 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		14CDAAB215C2A38B0015EB81 /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddViewController.m; sourceTree = "<group>"; };
+		14CDAAB315C2A38B0015EB81 /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,8 +83,8 @@
 		14C7682915BD4142009DA1D6 /* UITableViewStudy */ = {
 			isa = PBXGroup;
 			children = (
-				14B1AAA915BFF89E00BA042A /* AddViewController.h */,
-				14B1AAAA15BFF89E00BA042A /* AddViewController.m */,
+				14CDAAB215C2A38B0015EB81 /* AddViewController.m */,
+				14CDAAB315C2A38B0015EB81 /* AddViewController.h */,
 				14C7683215BD4142009DA1D6 /* AppDelegate.h */,
 				14C7683315BD4142009DA1D6 /* AppDelegate.m */,
 				14C7683515BD4142009DA1D6 /* MainStoryboard.storyboard */,
@@ -174,7 +174,7 @@
 				14C7683415BD4142009DA1D6 /* AppDelegate.m in Sources */,
 				14C7684215BD428E009DA1D6 /* ListViewController.m in Sources */,
 				14C7684815BD4B9C009DA1D6 /* DetailViewController.m in Sources */,
-				14B1AAAB15BFF89E00BA042A /* AddViewController.m in Sources */,
+				14CDAAB415C2A38B0015EB81 /* AddViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple</key>
+	<dict>
+		<key>color</key>
+		<string>red</string>
+		<key>weight</key>
+		<string>125 k</string>
+		<key>from</key>
+		<string>Japan</string>
+	</dict>
+	<key>Desk</key>
+	<dict>
+		<key>color</key>
+		<string>black</string>
+		<key>length</key>
+		<string>2 m</string>
+		<key>width</key>
+		<string> 1 m</string>
+		<key>height</key>
+		<string>1 m</string>
+		<key>material</key>
+		<string>wood</string>
+	</dict>
+	<key>Cat</key>
+	<dict>
+		<key>color</key>
+		<string>white</string>
+		<key>age</key>
+		<string>3 </string>
+	</dict>
+	<key>Cup</key>
+	<dict>
+		<key>material</key>
+		<string>glass</string>
+		<key>capacity</key>
+		<string>500 ml</string>
+	</dict>
+	<key>Banana</key>
+	<dict>
+		<key>color</key>
+		<string>yellow</string>
+		<key>weight</key>
+		<string>250 k</string>
+		<key>from</key>
+		<string>Hai Nan</string>
+	</dict>
+	<key>IDCard</key>
+	<dict>
+		<key>name</key>
+		<string>Sheen Zhuang</string>
+		<key>number</key>
+		<string>123456</string>
+		<key>nationality</key>
+		<string>China</string>
+		<key>birthday</key>
+		<string>January 13th</string>
+	</dict>
+</dict>
+</plist>

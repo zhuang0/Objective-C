@@ -184,7 +184,7 @@ sourceIndexPath toIndexPath:(NSIndexPath *)destinationIndexPath {
     
     isInEditing = YES;
     self.title = @"List";
-    
+    NSLog(@"Showing main list");
     list = [[NSMutableArray alloc] initWithArray: [dictionary allKeys]]; 
     
 

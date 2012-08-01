@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "14C7681E15BD4142009DA1D6"
-               BuildableName = "UITableViewStudy.app"
+               BuildableName = "UITableViewStudy2.app"
                BlueprintName = "UITableViewStudy2"
                ReferencedContainer = "container:UITableViewStudy2.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14C7681E15BD4142009DA1D6"
-            BuildableName = "UITableViewStudy.app"
+            BuildableName = "UITableViewStudy2.app"
             BlueprintName = "UITableViewStudy2"
             ReferencedContainer = "container:UITableViewStudy2.xcodeproj">
          </BuildableReference>
@@ -51,7 +51,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14C7681E15BD4142009DA1D6"
-            BuildableName = "UITableViewStudy.app"
+            BuildableName = "UITableViewStudy2.app"
             BlueprintName = "UITableViewStudy2"
             ReferencedContainer = "container:UITableViewStudy2.xcodeproj">
          </BuildableReference>
@@ -69,7 +69,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "14C7681E15BD4142009DA1D6"
-            BuildableName = "UITableViewStudy.app"
+            BuildableName = "UITableViewStudy2.app"
             BlueprintName = "UITableViewStudy2"
             ReferencedContainer = "container:UITableViewStudy2.xcodeproj">
          </BuildableReference>

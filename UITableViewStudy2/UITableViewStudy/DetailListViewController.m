@@ -41,13 +41,13 @@
 {
     [super viewDidLoad];
     isInEditing = YES;
-    NSLog(@"%@",name);
+    NSLog(@"Showing details of \"%@\"",name);
     self.title = name;
-    NSLog(@"%@",dictionary);
+    NSLog( @"%@", name);
     detailDictionary = [[NSMutableDictionary alloc] initWithDictionary:[dictionary objectForKey: name]];
     detailNameList = (NSMutableArray *) [detailDictionary allKeys];
     detailList = (NSMutableArray *) [detailDictionary allValues];
-    
+     NSLog(@"%@",detailDictionary);
 }
 
 - (void)viewDidUnload

@@ -52,7 +52,7 @@
 - (IBAction)didCancel:(id)sender {
     
     [self dismissModalViewControllerAnimated: YES];
-    NSLog(@"Canceling...");
+    NSLog(@"Canceling detail adding ...");
 }
 
 - (IBAction)didSave:(id)sender {
@@ -62,7 +62,7 @@
         
         [self.delegate DetailAddViewController: self DidSaveWithItemName:name andDetailName: detailNameTextField.text andDetail:detailContentTextField.text];
         [self dismissModalViewControllerAnimated: YES];
-        NSLog(@"Saving...");
+        NSLog(@"Saving detail...");
         
     }else {
         

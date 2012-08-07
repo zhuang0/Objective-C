@@ -1,0 +1,485 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1481CFEC15CFC73F000F06A7 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1481CFEB15CFC73F000F06A7 /* background.jpg */; };
+		14B7790715CA1A0600ED3D09 /* Alert.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7785015CA1A0500ED3D09 /* Alert.png */; };
+		14B7790815CA1A0600ED3D09 /* Atomica.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7785115CA1A0500ED3D09 /* Atomica.png */; };
+		14B7790F15CA1A0600ED3D09 /* Bluetooth.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7785815CA1A0500ED3D09 /* Bluetooth.png */; };
+		14B7791115CA1A0600ED3D09 /* Burn CD.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7785A15CA1A0500ED3D09 /* Burn CD.png */; };
+		14B7792115CA1A0600ED3D09 /* Clock.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7786A15CA1A0500ED3D09 /* Clock.png */; };
+		14B7792215CA1A0600ED3D09 /* Contacts 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7786B15CA1A0500ED3D09 /* Contacts 1.png */; };
+		14B7792515CA1A0600ED3D09 /* CursorXP.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7786E15CA1A0500ED3D09 /* CursorXP.png */; };
+		14B7792615CA1A0600ED3D09 /* Date & Time.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7786F15CA1A0500ED3D09 /* Date & Time.png */; };
+		14B7792715CA1A0600ED3D09 /* Date.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787015CA1A0500ED3D09 /* Date.png */; };
+		14B7792815CA1A0600ED3D09 /* Default dock icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787115CA1A0500ED3D09 /* Default dock icon.png */; };
+		14B7792915CA1A0600ED3D09 /* Desktop 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787215CA1A0500ED3D09 /* Desktop 1.png */; };
+		14B7792A15CA1A0600ED3D09 /* Desktop 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787315CA1A0500ED3D09 /* Desktop 2.png */; };
+		14B7792B15CA1A0600ED3D09 /* Desktop 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787415CA1A0500ED3D09 /* Desktop 3.png */; };
+		14B7792D15CA1A0600ED3D09 /* Dictionary - Dutch.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787615CA1A0500ED3D09 /* Dictionary - Dutch.png */; };
+		14B7792E15CA1A0600ED3D09 /* Dictionary - English.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787715CA1A0500ED3D09 /* Dictionary - English.png */; };
+		14B7792F15CA1A0600ED3D09 /* Display properties 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787815CA1A0500ED3D09 /* Display properties 1.png */; };
+		14B7793015CA1A0600ED3D09 /* Display properties 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7787915CA1A0500ED3D09 /* Display properties 2.png */; };
+		14B7794915CA1A0600ED3D09 /* E-mail 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7789215CA1A0500ED3D09 /* E-mail 1.png */; };
+		14B7794A15CA1A0600ED3D09 /* E-mail 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7789315CA1A0500ED3D09 /* E-mail 2.png */; };
+		14B7794C15CA1A0600ED3D09 /* Finder.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B7789515CA1A0500ED3D09 /* Finder.png */; };
+		14B7796D15CA1A0600ED3D09 /* Headphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778B615CA1A0500ED3D09 /* Headphone.png */; };
+		14B7796E15CA1A0600ED3D09 /* Help 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778B715CA1A0500ED3D09 /* Help 1.png */; };
+		14B7796F15CA1A0600ED3D09 /* Help 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778B815CA1A0500ED3D09 /* Help 2.png */; };
+		14B7797015CA1A0600ED3D09 /* Hexic.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778B915CA1A0500ED3D09 /* Hexic.png */; };
+		14B7797515CA1A0600ED3D09 /* Instant Messenger - Conversation.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778BE15CA1A0500ED3D09 /* Instant Messenger - Conversation.png */; };
+		14B7797D15CA1A0600ED3D09 /* Movie Player 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778C615CA1A0500ED3D09 /* Movie Player 1.png */; };
+		14B7797F15CA1A0600ED3D09 /* MS AntiSpware.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778C815CA1A0500ED3D09 /* MS AntiSpware.png */; };
+		14B7798615CA1A0600ED3D09 /* Music.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778CF15CA1A0500ED3D09 /* Music.png */; };
+		14B7798C15CA1A0600ED3D09 /* No access.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778D515CA1A0500ED3D09 /* No access.png */; };
+		14B7799015CA1A0600ED3D09 /* Notification.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778D915CA1A0500ED3D09 /* Notification.png */; };
+		14B7799415CA1A0600ED3D09 /* Outlook Express.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778DD15CA1A0500ED3D09 /* Outlook Express.png */; };
+		14B7799615CA1A0600ED3D09 /* Private files 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778DF15CA1A0600ED3D09 /* Private files 1.png */; };
+		14B7799815CA1A0600ED3D09 /* QuickTime.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E115CA1A0600ED3D09 /* QuickTime.png */; };
+		14B7799915CA1A0600ED3D09 /* Reason.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E215CA1A0600ED3D09 /* Reason.png */; };
+		14B7799B15CA1A0600ED3D09 /* Run 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E415CA1A0600ED3D09 /* Run 1.png */; };
+		14B7799C15CA1A0600ED3D09 /* Run 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E515CA1A0600ED3D09 /* Run 2.png */; };
+		14B7799D15CA1A0600ED3D09 /* Run 3 (transparant).png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E615CA1A0600ED3D09 /* Run 3 (transparant).png */; };
+		14B7799F15CA1A0600ED3D09 /* Search.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E815CA1A0600ED3D09 /* Search.png */; };
+		14B779A015CA1A0600ED3D09 /* Settings 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778E915CA1A0600ED3D09 /* Settings 1.png */; };
+		14B779A115CA1A0600ED3D09 /* Skype.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778EA15CA1A0600ED3D09 /* Skype.png */; };
+		14B779A815CA1A0600ED3D09 /* The Sims - University.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778F115CA1A0600ED3D09 /* The Sims - University.png */; };
+		14B779A915CA1A0600ED3D09 /* The Sims (2).png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778F215CA1A0600ED3D09 /* The Sims (2).png */; };
+		14B779AD15CA1A0600ED3D09 /* Winamp 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778F615CA1A0600ED3D09 /* Winamp 1.png */; };
+		14B779AE15CA1A0600ED3D09 /* Winamp 2 (transparant).png in Resources */ = {isa = PBXBuildFile; fileRef = 14B778F715CA1A0600ED3D09 /* Winamp 2 (transparant).png */; };
+		14B779D915CA505500ED3D09 /* IconsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 14B779D815CA505500ED3D09 /* IconsView.m */; };
+		14C3969515D0B62A0019DD20 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C3969415D0B62A0019DD20 /* AssetsLibrary.framework */; };
+		14C3969915D0B7A80019DD20 /* Overlay.png in Resources */ = {isa = PBXBuildFile; fileRef = 14C3969715D0B7A80019DD20 /* Overlay.png */; };
+		14C73AF015C9437E006247D8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C73AEF15C9437E006247D8 /* UIKit.framework */; };
+		14C73AF215C9437E006247D8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C73AF115C9437E006247D8 /* Foundation.framework */; };
+		14C73AF415C9437E006247D8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C73AF315C9437E006247D8 /* CoreGraphics.framework */; };
+		14C73AFA15C9437E006247D8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 14C73AF815C9437E006247D8 /* InfoPlist.strings */; };
+		14C73AFC15C9437E006247D8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 14C73AFB15C9437E006247D8 /* main.m */; };
+		14C73B0015C9437E006247D8 /* DoSpringBoardAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 14C73AFF15C9437E006247D8 /* DoSpringBoardAppDelegate.m */; };
+		14C73B0315C9437E006247D8 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14C73B0115C9437E006247D8 /* MainStoryboard.storyboard */; };
+		14C73B0615C9437E006247D8 /* DoSpringBoardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14C73B0515C9437E006247D8 /* DoSpringBoardViewController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1481CFEB15CFC73F000F06A7 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		14B7785015CA1A0500ED3D09 /* Alert.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Alert.png; path = icons/Alert.png; sourceTree = "<group>"; };
+		14B7785115CA1A0500ED3D09 /* Atomica.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Atomica.png; path = icons/Atomica.png; sourceTree = "<group>"; };
+		14B7785815CA1A0500ED3D09 /* Bluetooth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Bluetooth.png; path = icons/Bluetooth.png; sourceTree = "<group>"; };
+		14B7785A15CA1A0500ED3D09 /* Burn CD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Burn CD.png"; path = "icons/Burn CD.png"; sourceTree = "<group>"; };
+		14B7786A15CA1A0500ED3D09 /* Clock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Clock.png; path = icons/Clock.png; sourceTree = "<group>"; };
+		14B7786B15CA1A0500ED3D09 /* Contacts 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Contacts 1.png"; path = "icons/Contacts 1.png"; sourceTree = "<group>"; };
+		14B7786E15CA1A0500ED3D09 /* CursorXP.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CursorXP.png; path = icons/CursorXP.png; sourceTree = "<group>"; };
+		14B7786F15CA1A0500ED3D09 /* Date & Time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Date & Time.png"; path = "icons/Date & Time.png"; sourceTree = "<group>"; };
+		14B7787015CA1A0500ED3D09 /* Date.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Date.png; path = icons/Date.png; sourceTree = "<group>"; };
+		14B7787115CA1A0500ED3D09 /* Default dock icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default dock icon.png"; path = "icons/Default dock icon.png"; sourceTree = "<group>"; };
+		14B7787215CA1A0500ED3D09 /* Desktop 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Desktop 1.png"; path = "icons/Desktop 1.png"; sourceTree = "<group>"; };
+		14B7787315CA1A0500ED3D09 /* Desktop 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Desktop 2.png"; path = "icons/Desktop 2.png"; sourceTree = "<group>"; };
+		14B7787415CA1A0500ED3D09 /* Desktop 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Desktop 3.png"; path = "icons/Desktop 3.png"; sourceTree = "<group>"; };
+		14B7787615CA1A0500ED3D09 /* Dictionary - Dutch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Dictionary - Dutch.png"; path = "icons/Dictionary - Dutch.png"; sourceTree = "<group>"; };
+		14B7787715CA1A0500ED3D09 /* Dictionary - English.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Dictionary - English.png"; path = "icons/Dictionary - English.png"; sourceTree = "<group>"; };
+		14B7787815CA1A0500ED3D09 /* Display properties 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Display properties 1.png"; path = "icons/Display properties 1.png"; sourceTree = "<group>"; };
+		14B7787915CA1A0500ED3D09 /* Display properties 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Display properties 2.png"; path = "icons/Display properties 2.png"; sourceTree = "<group>"; };
+		14B7789215CA1A0500ED3D09 /* E-mail 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "E-mail 1.png"; path = "icons/E-mail 1.png"; sourceTree = "<group>"; };
+		14B7789315CA1A0500ED3D09 /* E-mail 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "E-mail 2.png"; path = "icons/E-mail 2.png"; sourceTree = "<group>"; };
+		14B7789515CA1A0500ED3D09 /* Finder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Finder.png; path = icons/Finder.png; sourceTree = "<group>"; };
+		14B778B615CA1A0500ED3D09 /* Headphone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Headphone.png; path = icons/Headphone.png; sourceTree = "<group>"; };
+		14B778B715CA1A0500ED3D09 /* Help 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Help 1.png"; path = "icons/Help 1.png"; sourceTree = "<group>"; };
+		14B778B815CA1A0500ED3D09 /* Help 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Help 2.png"; path = "icons/Help 2.png"; sourceTree = "<group>"; };
+		14B778B915CA1A0500ED3D09 /* Hexic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Hexic.png; path = icons/Hexic.png; sourceTree = "<group>"; };
+		14B778BE15CA1A0500ED3D09 /* Instant Messenger - Conversation.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Instant Messenger - Conversation.png"; path = "icons/Instant Messenger - Conversation.png"; sourceTree = "<group>"; };
+		14B778C615CA1A0500ED3D09 /* Movie Player 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Movie Player 1.png"; path = "icons/Movie Player 1.png"; sourceTree = "<group>"; };
+		14B778C815CA1A0500ED3D09 /* MS AntiSpware.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MS AntiSpware.png"; path = "icons/MS AntiSpware.png"; sourceTree = "<group>"; };
+		14B778CF15CA1A0500ED3D09 /* Music.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Music.png; path = icons/Music.png; sourceTree = "<group>"; };
+		14B778D515CA1A0500ED3D09 /* No access.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "No access.png"; path = "icons/No access.png"; sourceTree = "<group>"; };
+		14B778D915CA1A0500ED3D09 /* Notification.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Notification.png; path = icons/Notification.png; sourceTree = "<group>"; };
+		14B778DD15CA1A0500ED3D09 /* Outlook Express.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Outlook Express.png"; path = "icons/Outlook Express.png"; sourceTree = "<group>"; };
+		14B778DF15CA1A0600ED3D09 /* Private files 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Private files 1.png"; path = "icons/Private files 1.png"; sourceTree = "<group>"; };
+		14B778E115CA1A0600ED3D09 /* QuickTime.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = QuickTime.png; path = icons/QuickTime.png; sourceTree = "<group>"; };
+		14B778E215CA1A0600ED3D09 /* Reason.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Reason.png; path = icons/Reason.png; sourceTree = "<group>"; };
+		14B778E415CA1A0600ED3D09 /* Run 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Run 1.png"; path = "icons/Run 1.png"; sourceTree = "<group>"; };
+		14B778E515CA1A0600ED3D09 /* Run 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Run 2.png"; path = "icons/Run 2.png"; sourceTree = "<group>"; };
+		14B778E615CA1A0600ED3D09 /* Run 3 (transparant).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Run 3 (transparant).png"; path = "icons/Run 3 (transparant).png"; sourceTree = "<group>"; };
+		14B778E815CA1A0600ED3D09 /* Search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Search.png; path = icons/Search.png; sourceTree = "<group>"; };
+		14B778E915CA1A0600ED3D09 /* Settings 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Settings 1.png"; path = "icons/Settings 1.png"; sourceTree = "<group>"; };
+		14B778EA15CA1A0600ED3D09 /* Skype.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Skype.png; path = icons/Skype.png; sourceTree = "<group>"; };
+		14B778F115CA1A0600ED3D09 /* The Sims - University.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "The Sims - University.png"; path = "icons/The Sims - University.png"; sourceTree = "<group>"; };
+		14B778F215CA1A0600ED3D09 /* The Sims (2).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "The Sims (2).png"; path = "icons/The Sims (2).png"; sourceTree = "<group>"; };
+		14B778F615CA1A0600ED3D09 /* Winamp 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Winamp 1.png"; path = "icons/Winamp 1.png"; sourceTree = "<group>"; };
+		14B778F715CA1A0600ED3D09 /* Winamp 2 (transparant).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Winamp 2 (transparant).png"; path = "icons/Winamp 2 (transparant).png"; sourceTree = "<group>"; };
+		14B779D715CA505500ED3D09 /* IconsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IconsView.h; sourceTree = "<group>"; };
+		14B779D815CA505500ED3D09 /* IconsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IconsView.m; sourceTree = "<group>"; };
+		14C3969415D0B62A0019DD20 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
+		14C3969715D0B7A80019DD20 /* Overlay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Overlay.png; sourceTree = "<group>"; };
+		14C73AEB15C9437E006247D8 /* DoSpringBoardForStoryboard2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoSpringBoardForStoryboard2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		14C73AEF15C9437E006247D8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		14C73AF115C9437E006247D8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		14C73AF315C9437E006247D8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		14C73AF715C9437E006247D8 /* DoSpringBoardForStoryboard2-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DoSpringBoardForStoryboard2-Info.plist"; sourceTree = "<group>"; };
+		14C73AF915C9437E006247D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		14C73AFB15C9437E006247D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		14C73AFD15C9437E006247D8 /* DoSpringBoardForStoryboard2-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DoSpringBoardForStoryboard2-Prefix.pch"; sourceTree = "<group>"; };
+		14C73AFE15C9437E006247D8 /* DoSpringBoardAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DoSpringBoardAppDelegate.h; sourceTree = "<group>"; };
+		14C73AFF15C9437E006247D8 /* DoSpringBoardAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DoSpringBoardAppDelegate.m; sourceTree = "<group>"; };
+		14C73B0215C9437E006247D8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		14C73B0415C9437E006247D8 /* DoSpringBoardViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DoSpringBoardViewController.h; sourceTree = "<group>"; };
+		14C73B0515C9437E006247D8 /* DoSpringBoardViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DoSpringBoardViewController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		14C73AE815C9437E006247D8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14C3969515D0B62A0019DD20 /* AssetsLibrary.framework in Frameworks */,
+				14C73AF015C9437E006247D8 /* UIKit.framework in Frameworks */,
+				14C73AF215C9437E006247D8 /* Foundation.framework in Frameworks */,
+				14C73AF415C9437E006247D8 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		14B7784D15CA19EE00ED3D09 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+				14B7785015CA1A0500ED3D09 /* Alert.png */,
+				14B7785115CA1A0500ED3D09 /* Atomica.png */,
+				14B7785815CA1A0500ED3D09 /* Bluetooth.png */,
+				14B7785A15CA1A0500ED3D09 /* Burn CD.png */,
+				14B7786A15CA1A0500ED3D09 /* Clock.png */,
+				14B7786B15CA1A0500ED3D09 /* Contacts 1.png */,
+				14B7786E15CA1A0500ED3D09 /* CursorXP.png */,
+				14B7786F15CA1A0500ED3D09 /* Date & Time.png */,
+				14B7787015CA1A0500ED3D09 /* Date.png */,
+				14B7787115CA1A0500ED3D09 /* Default dock icon.png */,
+				14B7787215CA1A0500ED3D09 /* Desktop 1.png */,
+				14B7787315CA1A0500ED3D09 /* Desktop 2.png */,
+				14B7787415CA1A0500ED3D09 /* Desktop 3.png */,
+				14B7787615CA1A0500ED3D09 /* Dictionary - Dutch.png */,
+				14B7787715CA1A0500ED3D09 /* Dictionary - English.png */,
+				14B7787815CA1A0500ED3D09 /* Display properties 1.png */,
+				14B7787915CA1A0500ED3D09 /* Display properties 2.png */,
+				14B7789215CA1A0500ED3D09 /* E-mail 1.png */,
+				14B7789315CA1A0500ED3D09 /* E-mail 2.png */,
+				14B7789515CA1A0500ED3D09 /* Finder.png */,
+				14B778B615CA1A0500ED3D09 /* Headphone.png */,
+				14B778B715CA1A0500ED3D09 /* Help 1.png */,
+				14B778B815CA1A0500ED3D09 /* Help 2.png */,
+				14B778B915CA1A0500ED3D09 /* Hexic.png */,
+				14B778BE15CA1A0500ED3D09 /* Instant Messenger - Conversation.png */,
+				14B778C615CA1A0500ED3D09 /* Movie Player 1.png */,
+				14B778C815CA1A0500ED3D09 /* MS AntiSpware.png */,
+				14B778CF15CA1A0500ED3D09 /* Music.png */,
+				14B778D515CA1A0500ED3D09 /* No access.png */,
+				14B778D915CA1A0500ED3D09 /* Notification.png */,
+				14B778DD15CA1A0500ED3D09 /* Outlook Express.png */,
+				14B778DF15CA1A0600ED3D09 /* Private files 1.png */,
+				14B778E115CA1A0600ED3D09 /* QuickTime.png */,
+				14B778E215CA1A0600ED3D09 /* Reason.png */,
+				14B778E415CA1A0600ED3D09 /* Run 1.png */,
+				14B778E515CA1A0600ED3D09 /* Run 2.png */,
+				14B778E615CA1A0600ED3D09 /* Run 3 (transparant).png */,
+				14B778E815CA1A0600ED3D09 /* Search.png */,
+				14B778E915CA1A0600ED3D09 /* Settings 1.png */,
+				14B778EA15CA1A0600ED3D09 /* Skype.png */,
+				14B778F115CA1A0600ED3D09 /* The Sims - University.png */,
+				14B778F215CA1A0600ED3D09 /* The Sims (2).png */,
+				14B778F615CA1A0600ED3D09 /* Winamp 1.png */,
+				14B778F715CA1A0600ED3D09 /* Winamp 2 (transparant).png */,
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		14C73AE015C9437E006247D8 = {
+			isa = PBXGroup;
+			children = (
+				14C73AF515C9437E006247D8 /* DoSpringBoardForStoryboard */,
+				14C73AEE15C9437E006247D8 /* Frameworks */,
+				14C73AEC15C9437E006247D8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		14C73AEC15C9437E006247D8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				14C73AEB15C9437E006247D8 /* DoSpringBoardForStoryboard2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		14C73AEE15C9437E006247D8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				14C3969415D0B62A0019DD20 /* AssetsLibrary.framework */,
+				14C73AEF15C9437E006247D8 /* UIKit.framework */,
+				14C73AF115C9437E006247D8 /* Foundation.framework */,
+				14C73AF315C9437E006247D8 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		14C73AF515C9437E006247D8 /* DoSpringBoardForStoryboard */ = {
+			isa = PBXGroup;
+			children = (
+				14C73AFE15C9437E006247D8 /* DoSpringBoardAppDelegate.h */,
+				14C73AFF15C9437E006247D8 /* DoSpringBoardAppDelegate.m */,
+				14C73B0415C9437E006247D8 /* DoSpringBoardViewController.h */,
+				14C73B0515C9437E006247D8 /* DoSpringBoardViewController.m */,
+				14B779D715CA505500ED3D09 /* IconsView.h */,
+				14B779D815CA505500ED3D09 /* IconsView.m */,
+				14C73B0115C9437E006247D8 /* MainStoryboard.storyboard */,
+				14C73AF615C9437E006247D8 /* Supporting Files */,
+			);
+			path = DoSpringBoardForStoryboard;
+			sourceTree = "<group>";
+		};
+		14C73AF615C9437E006247D8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				14B7784D15CA19EE00ED3D09 /* Icons */,
+				1481CFEB15CFC73F000F06A7 /* background.jpg */,
+				14C3969715D0B7A80019DD20 /* Overlay.png */,
+				14C73AF715C9437E006247D8 /* DoSpringBoardForStoryboard2-Info.plist */,
+				14C73AF815C9437E006247D8 /* InfoPlist.strings */,
+				14C73AFB15C9437E006247D8 /* main.m */,
+				14C73AFD15C9437E006247D8 /* DoSpringBoardForStoryboard2-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		14C73AEA15C9437E006247D8 /* DoSpringBoardForStoryboard2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 14C73B0915C9437E006247D8 /* Build configuration list for PBXNativeTarget "DoSpringBoardForStoryboard2" */;
+			buildPhases = (
+				14C73AE715C9437E006247D8 /* Sources */,
+				14C73AE815C9437E006247D8 /* Frameworks */,
+				14C73AE915C9437E006247D8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DoSpringBoardForStoryboard2;
+			productName = DoSpringBoardForStoryboard;
+			productReference = 14C73AEB15C9437E006247D8 /* DoSpringBoardForStoryboard2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		14C73AE215C9437E006247D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = DoSpringBoard;
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 14C73AE515C9437E006247D8 /* Build configuration list for PBXProject "DoSpringBoardForStoryboard2" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 14C73AE015C9437E006247D8;
+			productRefGroup = 14C73AEC15C9437E006247D8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				14C73AEA15C9437E006247D8 /* DoSpringBoardForStoryboard2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		14C73AE915C9437E006247D8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14C73AFA15C9437E006247D8 /* InfoPlist.strings in Resources */,
+				14C73B0315C9437E006247D8 /* MainStoryboard.storyboard in Resources */,
+				14B7790715CA1A0600ED3D09 /* Alert.png in Resources */,
+				14B7790815CA1A0600ED3D09 /* Atomica.png in Resources */,
+				14B7790F15CA1A0600ED3D09 /* Bluetooth.png in Resources */,
+				14B7791115CA1A0600ED3D09 /* Burn CD.png in Resources */,
+				14B7792115CA1A0600ED3D09 /* Clock.png in Resources */,
+				14B7792215CA1A0600ED3D09 /* Contacts 1.png in Resources */,
+				14B7792515CA1A0600ED3D09 /* CursorXP.png in Resources */,
+				14B7792615CA1A0600ED3D09 /* Date & Time.png in Resources */,
+				14B7792715CA1A0600ED3D09 /* Date.png in Resources */,
+				14B7792815CA1A0600ED3D09 /* Default dock icon.png in Resources */,
+				14B7792915CA1A0600ED3D09 /* Desktop 1.png in Resources */,
+				14B7792A15CA1A0600ED3D09 /* Desktop 2.png in Resources */,
+				14B7792B15CA1A0600ED3D09 /* Desktop 3.png in Resources */,
+				14B7792D15CA1A0600ED3D09 /* Dictionary - Dutch.png in Resources */,
+				14B7792E15CA1A0600ED3D09 /* Dictionary - English.png in Resources */,
+				14B7792F15CA1A0600ED3D09 /* Display properties 1.png in Resources */,
+				14B7793015CA1A0600ED3D09 /* Display properties 2.png in Resources */,
+				14B7794915CA1A0600ED3D09 /* E-mail 1.png in Resources */,
+				14B7794A15CA1A0600ED3D09 /* E-mail 2.png in Resources */,
+				14B7794C15CA1A0600ED3D09 /* Finder.png in Resources */,
+				14B7796D15CA1A0600ED3D09 /* Headphone.png in Resources */,
+				14B7796E15CA1A0600ED3D09 /* Help 1.png in Resources */,
+				14B7796F15CA1A0600ED3D09 /* Help 2.png in Resources */,
+				14B7797015CA1A0600ED3D09 /* Hexic.png in Resources */,
+				14B7797515CA1A0600ED3D09 /* Instant Messenger - Conversation.png in Resources */,
+				14B7797D15CA1A0600ED3D09 /* Movie Player 1.png in Resources */,
+				14B7797F15CA1A0600ED3D09 /* MS AntiSpware.png in Resources */,
+				14B7798615CA1A0600ED3D09 /* Music.png in Resources */,
+				14B7798C15CA1A0600ED3D09 /* No access.png in Resources */,
+				14B7799015CA1A0600ED3D09 /* Notification.png in Resources */,
+				14B7799415CA1A0600ED3D09 /* Outlook Express.png in Resources */,
+				14B7799615CA1A0600ED3D09 /* Private files 1.png in Resources */,
+				14B7799815CA1A0600ED3D09 /* QuickTime.png in Resources */,
+				14B7799915CA1A0600ED3D09 /* Reason.png in Resources */,
+				14B7799B15CA1A0600ED3D09 /* Run 1.png in Resources */,
+				14B7799C15CA1A0600ED3D09 /* Run 2.png in Resources */,
+				14B7799D15CA1A0600ED3D09 /* Run 3 (transparant).png in Resources */,
+				14B7799F15CA1A0600ED3D09 /* Search.png in Resources */,
+				14B779A015CA1A0600ED3D09 /* Settings 1.png in Resources */,
+				14B779A115CA1A0600ED3D09 /* Skype.png in Resources */,
+				14B779A815CA1A0600ED3D09 /* The Sims - University.png in Resources */,
+				14B779A915CA1A0600ED3D09 /* The Sims (2).png in Resources */,
+				14B779AD15CA1A0600ED3D09 /* Winamp 1.png in Resources */,
+				14B779AE15CA1A0600ED3D09 /* Winamp 2 (transparant).png in Resources */,
+				1481CFEC15CFC73F000F06A7 /* background.jpg in Resources */,
+				14C3969915D0B7A80019DD20 /* Overlay.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		14C73AE715C9437E006247D8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				14C73AFC15C9437E006247D8 /* main.m in Sources */,
+				14C73B0015C9437E006247D8 /* DoSpringBoardAppDelegate.m in Sources */,
+				14C73B0615C9437E006247D8 /* DoSpringBoardViewController.m in Sources */,
+				14B779D915CA505500ED3D09 /* IconsView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		14C73AF815C9437E006247D8 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				14C73AF915C9437E006247D8 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		14C73B0115C9437E006247D8 /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				14C73B0215C9437E006247D8 /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		14C73B0715C9437E006247D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		14C73B0815C9437E006247D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		14C73B0A15C9437E006247D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DoSpringBoardForStoryboard/DoSpringBoardForStoryboard2-Prefix.pch";
+				INFOPLIST_FILE = "DoSpringBoardForStoryboard/DoSpringBoardForStoryboard2-Info.plist";
+				PRODUCT_NAME = DoSpringBoardForStoryboard2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		14C73B0B15C9437E006247D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DoSpringBoardForStoryboard/DoSpringBoardForStoryboard2-Prefix.pch";
+				INFOPLIST_FILE = "DoSpringBoardForStoryboard/DoSpringBoardForStoryboard2-Info.plist";
+				PRODUCT_NAME = DoSpringBoardForStoryboard2;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		14C73AE515C9437E006247D8 /* Build configuration list for PBXProject "DoSpringBoardForStoryboard2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14C73B0715C9437E006247D8 /* Debug */,
+				14C73B0815C9437E006247D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		14C73B0915C9437E006247D8 /* Build configuration list for PBXNativeTarget "DoSpringBoardForStoryboard2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				14C73B0A15C9437E006247D8 /* Debug */,
+				14C73B0B15C9437E006247D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 14C73AE215C9437E006247D8 /* Project object */;
+}

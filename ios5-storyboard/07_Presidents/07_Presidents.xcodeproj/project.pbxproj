@@ -1,0 +1,303 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A202E6B51565FC9F003F61B2 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = A202E6B41565FC9F003F61B2 /* PresidentList.plist */; };
+		A25377D7155778C90013D24C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A25377D6155778C90013D24C /* UIKit.framework */; };
+		A25377D9155778C90013D24C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A25377D8155778C90013D24C /* Foundation.framework */; };
+		A25377DB155778C90013D24C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A25377DA155778C90013D24C /* CoreGraphics.framework */; };
+		A25377E1155778C90013D24C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A25377DF155778C90013D24C /* InfoPlist.strings */; };
+		A25377E3155778C90013D24C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A25377E2155778C90013D24C /* main.m */; };
+		A25377E7155778C90013D24C /* PresidentsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A25377E6155778C90013D24C /* PresidentsAppDelegate.m */; };
+		A25377EA155778C90013D24C /* iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A25377E8155778C90013D24C /* iPad.storyboard */; };
+		A25377ED155778C90013D24C /* PresidentsMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25377EC155778C90013D24C /* PresidentsMasterViewController.m */; };
+		A25377F0155778C90013D24C /* PresidentsDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A25377EF155778C90013D24C /* PresidentsDetailViewController.m */; };
+		A28D906C155987AD0074CEE5 /* LanguageListController.m in Sources */ = {isa = PBXBuildFile; fileRef = A28D906B155987AD0074CEE5 /* LanguageListController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A202E6B41565FC9F003F61B2 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PresidentList.plist; sourceTree = "<group>"; };
+		A25377D2155778C90013D24C /* 07_Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 07_Presidents.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A25377D6155778C90013D24C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A25377D8155778C90013D24C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A25377DA155778C90013D24C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A25377DE155778C90013D24C /* 07_Presidents-Info.plist */ = {isa = PBXFileReference; path = "07_Presidents-Info.plist"; sourceTree = "<group>"; };
+		A25377E0155778C90013D24C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A25377E2155778C90013D24C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A25377E4155778C90013D24C /* 07_Presidents-Prefix.pch */ = {isa = PBXFileReference; path = "07_Presidents-Prefix.pch"; sourceTree = "<group>"; };
+		A25377E5155778C90013D24C /* PresidentsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentsAppDelegate.h; sourceTree = "<group>"; };
+		A25377E6155778C90013D24C /* PresidentsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsAppDelegate.m; sourceTree = "<group>"; };
+		A25377E9155778C90013D24C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/iPad.storyboard; sourceTree = "<group>"; };
+		A25377EB155778C90013D24C /* PresidentsMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentsMasterViewController.h; sourceTree = "<group>"; };
+		A25377EC155778C90013D24C /* PresidentsMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsMasterViewController.m; sourceTree = "<group>"; };
+		A25377EE155778C90013D24C /* PresidentsDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PresidentsDetailViewController.h; sourceTree = "<group>"; };
+		A25377EF155778C90013D24C /* PresidentsDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsDetailViewController.m; sourceTree = "<group>"; };
+		A28D906A155987AD0074CEE5 /* LanguageListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LanguageListController.h; sourceTree = "<group>"; };
+		A28D906B155987AD0074CEE5 /* LanguageListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LanguageListController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A25377CF155778C90013D24C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25377D7155778C90013D24C /* UIKit.framework in Frameworks */,
+				A25377D9155778C90013D24C /* Foundation.framework in Frameworks */,
+				A25377DB155778C90013D24C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A25377C7155778C80013D24C = {
+			isa = PBXGroup;
+			children = (
+				A25377DC155778C90013D24C /* 07_Presidents */,
+				A25377D5155778C90013D24C /* Frameworks */,
+				A25377D3155778C90013D24C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A25377D3155778C90013D24C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A25377D2155778C90013D24C /* 07_Presidents.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A25377D5155778C90013D24C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A25377D6155778C90013D24C /* UIKit.framework */,
+				A25377D8155778C90013D24C /* Foundation.framework */,
+				A25377DA155778C90013D24C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A25377DC155778C90013D24C /* 07_Presidents */ = {
+			isa = PBXGroup;
+			children = (
+				A25377E5155778C90013D24C /* PresidentsAppDelegate.h */,
+				A25377E6155778C90013D24C /* PresidentsAppDelegate.m */,
+				A25377E8155778C90013D24C /* iPad.storyboard */,
+				A25377EB155778C90013D24C /* PresidentsMasterViewController.h */,
+				A25377EC155778C90013D24C /* PresidentsMasterViewController.m */,
+				A25377EE155778C90013D24C /* PresidentsDetailViewController.h */,
+				A25377EF155778C90013D24C /* PresidentsDetailViewController.m */,
+				A28D906A155987AD0074CEE5 /* LanguageListController.h */,
+				A28D906B155987AD0074CEE5 /* LanguageListController.m */,
+				A202E6B41565FC9F003F61B2 /* PresidentList.plist */,
+				A25377DD155778C90013D24C /* Supporting Files */,
+			);
+			name = 07_Presidents;
+			path = 11_Presidents;
+			sourceTree = "<group>";
+		};
+		A25377DD155778C90013D24C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A25377DE155778C90013D24C /* 07_Presidents-Info.plist */,
+				A25377DF155778C90013D24C /* InfoPlist.strings */,
+				A25377E2155778C90013D24C /* main.m */,
+				A25377E4155778C90013D24C /* 07_Presidents-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A25377D1155778C90013D24C /* 07_Presidents */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A25377F3155778C90013D24C /* Build configuration list for PBXNativeTarget "07_Presidents" */;
+			buildPhases = (
+				A25377CE155778C90013D24C /* Sources */,
+				A25377CF155778C90013D24C /* Frameworks */,
+				A25377D0155778C90013D24C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 07_Presidents;
+			productName = 11_Presidents;
+			productReference = A25377D2155778C90013D24C /* 07_Presidents.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A25377C9155778C80013D24C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Presidents;
+				LastUpgradeCheck = 0430;
+				ORGANIZATIONNAME = Accenture;
+			};
+			buildConfigurationList = A25377CC155778C80013D24C /* Build configuration list for PBXProject "07_Presidents" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A25377C7155778C80013D24C;
+			productRefGroup = A25377D3155778C90013D24C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A25377D1155778C90013D24C /* 07_Presidents */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A25377D0155778C90013D24C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25377E1155778C90013D24C /* InfoPlist.strings in Resources */,
+				A25377EA155778C90013D24C /* iPad.storyboard in Resources */,
+				A202E6B51565FC9F003F61B2 /* PresidentList.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A25377CE155778C90013D24C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A25377E3155778C90013D24C /* main.m in Sources */,
+				A25377E7155778C90013D24C /* PresidentsAppDelegate.m in Sources */,
+				A25377ED155778C90013D24C /* PresidentsMasterViewController.m in Sources */,
+				A25377F0155778C90013D24C /* PresidentsDetailViewController.m in Sources */,
+				A28D906C155987AD0074CEE5 /* LanguageListController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A25377DF155778C90013D24C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A25377E0155778C90013D24C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A25377E8155778C90013D24C /* iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A25377E9155778C90013D24C /* en */,
+			);
+			name = iPad.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A25377F1155778C90013D24C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		A25377F2155778C90013D24C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A25377F4155778C90013D24C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "11_Presidents/07_Presidents-Prefix.pch";
+				INFOPLIST_FILE = "11_Presidents/07_Presidents-Info.plist";
+				PRODUCT_NAME = 07_Presidents;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A25377F5155778C90013D24C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "11_Presidents/07_Presidents-Prefix.pch";
+				INFOPLIST_FILE = "11_Presidents/07_Presidents-Info.plist";
+				PRODUCT_NAME = 07_Presidents;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A25377CC155778C80013D24C /* Build configuration list for PBXProject "07_Presidents" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A25377F1155778C90013D24C /* Debug */,
+				A25377F2155778C90013D24C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A25377F3155778C90013D24C /* Build configuration list for PBXNativeTarget "07_Presidents" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A25377F4155778C90013D24C /* Debug */,
+				A25377F5155778C90013D24C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A25377C9155778C80013D24C /* Project object */;
+}

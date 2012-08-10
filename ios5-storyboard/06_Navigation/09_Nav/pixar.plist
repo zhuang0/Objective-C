@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pixar_films</key>
+	<array>
+		<string>Toy Story</string>
+		<string>A Bug&apos;s Life</string>
+		<string>Toy Story 2</string>
+		<string>Monsters, Inc</string>
+		<string>Finding Nemo</string>
+		<string>The Incredibles</string>
+		<string>Cars</string>
+		<string>Ratatouille</string>
+		<string>WALL-E</string>
+		<string>Up</string>
+		<string>Toy Story 3</string>
+		<string>Cars 2</string>
+		<string>Brave</string>
+	</array>
+</dict>
+</plist>
